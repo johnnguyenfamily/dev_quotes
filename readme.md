@@ -18,3 +18,4 @@ All quotes are sourced from https://en.wikiquote.org
 - Alen Kay
 - Bjarne Stroutrup
 - Test
+- Test2
