@@ -1,1 +1,1 @@
-Bjarne Stroustrup quotes
+Bjarne Stroustrup quotes.
